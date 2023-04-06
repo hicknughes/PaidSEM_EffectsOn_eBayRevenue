@@ -1,5 +1,4 @@
-# PaidSEM_EffectsOn_eBayRevenue
-###Overview
+#Overview
 An analysis of paid SEM marketing on eBay revenues across 210 'designated market areas' using 1)Difference in difference, 2)Synthetic Controls and 3)Synthetic Difference in Difference analyses
 
 ###The Data
